@@ -8,6 +8,7 @@ const subject2 = [
     "Tyre",
     "Flokus",
     "Flaunt"
+    "Fluffy"
 ];
 
 const action2 = [
@@ -16,6 +17,7 @@ const action2 = [
     "kills",
     "reads",
     "educates"
+    "eats"
 ]
 
 const outcome2 = [
@@ -24,6 +26,7 @@ const outcome2 = [
     "barney",
     "Nelson Mandela",
     "soup"
+    "a book"
 ]
 
 const getRandomItem2 = array2 => {
